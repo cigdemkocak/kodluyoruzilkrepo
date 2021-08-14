@@ -9,8 +9,9 @@ Bu repo Kodluyoruz eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet 
 
 ```
 git clone https://github.com/cigdemkocak/kodluyoruzilkrepo.git
-``
+```
 ## Usage
+
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
